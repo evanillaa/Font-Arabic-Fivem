@@ -6,4 +6,4 @@
 Join https://discord.gg/HQ3FqsB4KP
 
 ## Test Font ##
-"<FONT FACE = 'JF Flat'>".."مرحبا هده تجربة لخط فودكا"
+"<FONT FACE = 'JF Flat'>"مرحبا هده تجربة لخط فودكا
